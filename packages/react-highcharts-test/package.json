@@ -1,6 +1,6 @@
 {
   "name": "react-highcharts-test",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "highcharts": "^6.1.1",
-    "react-highcharts-test1": "^0.0.2"
+    "antd": "^3.6.5",
+    "es6-promise": "^4.2.4",
+    "react-color": "^2.14.1",
+    "react-dom": "^16.4.1",
+    "react-highcharts-test1": "^0.0.4",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.4"
   }
 }
