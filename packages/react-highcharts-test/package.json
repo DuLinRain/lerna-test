@@ -1,6 +1,6 @@
 {
   "name": "react-highcharts-test",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "highcharts": "^6.1.1",
-    "react-highcharts-test1": "^0.0.1"
+    "react-highcharts-test1": "^0.0.2"
   }
 }
